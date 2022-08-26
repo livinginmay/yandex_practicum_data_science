@@ -53,4 +53,4 @@ $$
 Данные разных таблиц соединяются по полю `key`, при этом берутся строки, по которым конкретный `key` есть во всех таблицах и значения `temperature_1` и `temperature_final` заполнены. Остальные пропуски заполняются нулями.
 
 ## Используемые библиотеки
-*Python, Pandas, PandaSQL, Scikit-learn, LightGBM, XGBoost, Seaborn*
+*Pandas, PandaSQL, Scikit-learn, LightGBM, XGBoost, Seaborn*
