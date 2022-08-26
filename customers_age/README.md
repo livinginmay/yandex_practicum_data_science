@@ -25,4 +25,4 @@
 *	VGG16 - 9.15.
 
 ## Используемые библиотеки
-*Python, Pandas, Keras, Seaborn*
+*Pandas, Keras, Seaborn*
