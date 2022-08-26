@@ -19,4 +19,4 @@
 Т.к. с марта по август количество перелетов возрастает в связи с наступлением лета и массовых отпусков, то дополнив датасет данными прошлого лета/года и обучав на них модель, мы могли бы получить более точные предсказания.
 
 ## Используемые библиотеки
-*Python, Pandas, Scikit-learn, Statsmodels, Catboost, LightGBM, XGBoost, Seaborn*
+*Pandas, Scikit-learn, Statsmodels, Catboost, LightGBM, XGBoost, Seaborn*
